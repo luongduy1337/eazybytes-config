@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Duy Luon - Developer"
+    email: "javabe.addict2code@gmail.com"
+  onCallSupport:
+    - 0966553068
+    - 0966553268

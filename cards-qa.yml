@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Thao Nguyen - QA Leader"
+    email: "javabe.addict2code@gmail.com"
+  onCallSupport:
+    - 0966553068
+    - 0966553268

@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Thao Nguyen - QA Lead"
+    email: "javabe.addict2code@gmail.com"
+  onCallSupport:
+    - 0966553068
+    - 0966553268
