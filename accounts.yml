@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to EazyBank accounts related localhost APIs"
   contactDetails:
     name: "Duy Luon - Developer"
-    email: "javabe.addict2code@gmail.com"
+    email: "{cipher}e83d11f96d133ae968f4b5a16acab9ffa85c42a5829ef8576846e9e04db28e8cae14c5895166dd01c4925cc8f275f43e"
   onCallSupport:
     - 0966553068
     - 0966553268
